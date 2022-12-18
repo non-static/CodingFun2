@@ -3,7 +3,7 @@ title: First Try
 description: First practice question 
 # slug: hello-world
 date: 2022-12-17 00:00:00+0000
-# image: cover.jpg
+image: cover.jpg
 categories:
     - Python
     - Basic
