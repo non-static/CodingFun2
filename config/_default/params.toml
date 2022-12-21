@@ -75,7 +75,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "disqus"
+provider = "cusdis"
 
 [comments.disqusjs]
 shortname = ""
@@ -144,5 +144,5 @@ clientID = ""
 clientSecret = ""
 
 [comments.cusdis]
-host = ""
-id = ""
+host = "https://cusdis.com"
+id = "d73549df-1500-4bb0-bcec-6ea3da3aaf40"
