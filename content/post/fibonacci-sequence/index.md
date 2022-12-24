@@ -6,7 +6,7 @@ categories:
     - Python
 tags:
     - for-loop
-    - if-statement
+    - variable-usage
     - math
 ---
 
