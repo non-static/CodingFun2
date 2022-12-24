@@ -1,6 +1,5 @@
 ---
 title: Print all integers in [1, 100]
-description: Print all integers in a range 
 date: 2022-12-17 00:00:00+0000
 image: cover.jpg
 categories:
