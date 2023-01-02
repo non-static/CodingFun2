@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on CodingFun2 for Nouyi and David</title><link>https://non-static.github.io/codingfun2/post/</link><description>Recent content in Posts on CodingFun2 for Nouyi and David</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://non-static.github.io/codingfun2/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Print shapes</title><link>https://non-static.github.io/codingfun2/p/print-shapes/</link><pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/print-shapes/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/print-shapes/cover.jpg" alt="Featured image of post Print shapes" />&lt;p>Print the following shapes:&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;span class="lnt">9
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"> *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> **
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ***
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ****
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *****
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ******
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *******
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ********
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">*********
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;span class="lnt">8
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"> *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ***
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *****
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *******
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *********
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ***********
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> *************
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">***************
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl"> *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> * *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> * *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> * *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> * *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> * *
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">*************
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item><item><title>Fibonacci sequence</title><link>https://non-static.github.io/codingfun2/p/fibonacci-sequence/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/fibonacci-sequence/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/fibonacci-sequence/fib.jpg" alt="Featured image of post Fibonacci sequence" />&lt;p>The question is: Find the the 20th number in the &lt;a class="link" href="https://kids.kiddle.co/Fibonacci_number" target="_blank" rel="noopener"
+>Fibonacci sequence&lt;/a>.&lt;/p></description></item><item><title>Find k-th digit from right</title><link>https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/k-th-digit.jpg" alt="Featured image of post Find k-th digit from right" />&lt;p>The question is: given an integer, find the &lt;code>k&lt;/code>-th digit from the right.&lt;/p>
+&lt;p>For example:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Given number&lt;/th>
+&lt;th>&lt;code>k&lt;/code>&lt;/th>
+&lt;th>Result&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>123216234&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2351234&lt;/td>
+&lt;td>7&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Calculate difference between two sums</title><link>https://non-static.github.io/codingfun2/p/calculate-difference-between-two-sums/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/calculate-difference-between-two-sums/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/calculate-difference-between-two-sums/cal-diff.jpg" alt="Featured image of post Calculate difference between two sums" />&lt;p>The question is: from 1 to 10,000, calculate the difference between the sum of all multiples of 3 and all multiples of 4.&lt;/p></description></item><item><title>Print all integers in [1, 100]</title><link>https://non-static.github.io/codingfun2/p/print-all-integers-in-1-100/</link><pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/print-all-integers-in-1-100/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/print-all-integers-in-1-100/cover.jpg" alt="Featured image of post Print all integers in [1, 100]" />&lt;p>The question is to print all integers between 1 and 100, including 1 and 100. There are also some variations:&lt;/p>
+&lt;ul>
+&lt;li>Can you print out all of them in an ascending way?&lt;/li>
+&lt;li>How about descending?&lt;/li>
+&lt;li>Can you print out in a random way?&lt;/li>
+&lt;/ul>
+&lt;p>Have fun!&lt;/p></description></item></channel></rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>math on CodingFun2 for Nouyi and David</title><link>https://non-static.github.io/codingfun2/tags/math/</link><description>Recent content in math on CodingFun2 for Nouyi and David</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://non-static.github.io/codingfun2/tags/math/index.xml" rel="self" type="application/rss+xml"/><item><title>Fibonacci sequence</title><link>https://non-static.github.io/codingfun2/p/fibonacci-sequence/</link><pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/fibonacci-sequence/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/fibonacci-sequence/fib.jpg" alt="Featured image of post Fibonacci sequence" />&lt;p>The question is: Find the the 20th number in the &lt;a class="link" href="https://kids.kiddle.co/Fibonacci_number" target="_blank" rel="noopener"
+>Fibonacci sequence&lt;/a>.&lt;/p></description></item><item><title>Find k-th digit from right</title><link>https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/</link><pubDate>Tue, 20 Dec 2022 00:00:00 +0000</pubDate><guid>https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/</guid><description>&lt;img src="https://non-static.github.io/codingfun2/p/find-k-th-digit-from-right/k-th-digit.jpg" alt="Featured image of post Find k-th digit from right" />&lt;p>The question is: given an integer, find the &lt;code>k&lt;/code>-th digit from the right.&lt;/p>
+&lt;p>For example:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Given number&lt;/th>
+&lt;th>&lt;code>k&lt;/code>&lt;/th>
+&lt;th>Result&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>123216234&lt;/td>
+&lt;td>4&lt;/td>
+&lt;td>6&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>2351234&lt;/td>
+&lt;td>7&lt;/td>
+&lt;td>2&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7&lt;/td>
+&lt;td>2&lt;/td>
+&lt;td>0&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
